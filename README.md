@@ -25,6 +25,7 @@ Welcome to my mini - world !
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="25" height="25"/>
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" height="25"/>
 </p>
 <p>
 <img src="https://www.svgrepo.com/show/223056/sheets-sheet.svg" alt="sheets" width="25" height="25"/>
@@ -33,7 +34,9 @@ Welcome to my mini - world !
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="25" height="25"/>
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="25" height="25"/>
+<img src="" alt="putty" width="25" height="25"/>
+<img src="" alt="putty" width="25" height="25"/>
+<img src="" alt="putty" width="25" height="25"/>
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="25" height="25"/>
