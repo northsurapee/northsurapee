@@ -27,7 +27,10 @@ Welcome to my mini - world !
 <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" height="25"/>
 </p>
 <p>
+<img src="https://www.svgrepo.com/show/223056/sheets-sheet.svg" alt="sheets" width="25" height="25"/>
+<img src="https://www.svgrepo.com/show/373589/excel.svg" alt="excel" width="25" height="25"/>
 <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker" width="25" height="25"/>
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="25" height="25"/>
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="25" height="25"/>
