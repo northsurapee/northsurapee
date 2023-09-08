@@ -20,6 +20,7 @@ Welcome to my mini - world !
 </p>
 
 ## Tools and Frameworks
+IDE : 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="25" height="25"/>
