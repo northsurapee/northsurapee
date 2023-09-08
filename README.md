@@ -20,8 +20,8 @@ Welcome to my mini - world !
 </p>
 
 ## Tools and Frameworks
-IDE : 
 <p>
+Integrated development environment : 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="25" height="25"/>
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse" height="25"/>
@@ -29,12 +29,14 @@ IDE :
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" height="25"/>
 </p>
 <p>
+Data Analytic : 
 <img src="https://www.svgrepo.com/show/223056/sheets-sheet.svg" alt="sheets" width="25" height="25"/>
 <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="excel" width="25" height="25"/>
 <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker" width="25" height="25"/>
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="25" height="25"/>
 </p>
 <p>
+Data Science :
 <img src="" alt="putty" width="25" height="25"/>
 <img src="" alt="putty" width="25" height="25"/>
 <img src="" alt="putty" width="25" height="25"/>
