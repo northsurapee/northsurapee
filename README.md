@@ -21,7 +21,7 @@ Welcome to my mini - world !
 
 ## Tools and Frameworks
 <p>
-Integrated development environment : 
+Integrated development environment (IDE) :  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="25" height="25"/>
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse" height="25"/>
@@ -29,17 +29,17 @@ Integrated development environment :
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" height="25"/>
 </p>
 <p>
-Data Analytic : 
+Data Analytic :  
 <img src="https://www.svgrepo.com/show/223056/sheets-sheet.svg" alt="sheets" width="25" height="25"/>
 <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="excel" width="25" height="25"/>
 <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker" width="25" height="25"/>
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="25" height="25"/>
 </p>
 <p>
-Data Science :
-<img src="" alt="putty" width="25" height="25"/>
-<img src="" alt="putty" width="25" height="25"/>
-<img src="" alt="putty" width="25" height="25"/>
+Data Science : 
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="putty" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="putty" width="25" height="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052" alt="putty" width="25" height="25"/>
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="25" height="25"/>
