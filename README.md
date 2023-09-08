@@ -16,6 +16,7 @@ Welcome to my mini - world !
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25"/>
 </p>
 
 ## Tools and Frameworks
