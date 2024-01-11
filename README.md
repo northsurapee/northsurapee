@@ -3,13 +3,6 @@ Welcome to my coding - world !
 
 You can visit my highlight projects (with live-demo) in the pinned repository below 🔥
 
-<a href="https://www.facebook.com/SleepingNot/">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/surapee-suwan-3909791a3/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
 ## Programming Language
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/>
