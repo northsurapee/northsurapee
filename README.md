@@ -1,7 +1,7 @@
 # Surapee Suwan —@northsurapee
 Welcome to my coding - world !
 
-You can visit my live projects in the pinned repository below 🔥
+You can visit my highlight projects (with live-demo) in the pinned repository below 🔥
 
 <a href="https://www.facebook.com/SleepingNot/">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
