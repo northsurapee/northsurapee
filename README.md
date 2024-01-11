@@ -60,8 +60,6 @@ Welcome to my mini - world !
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premiere pro" width="25" height="25"/>
 </p>
 
-[![Surapee's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=northsurapee)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Surapee's GitHub stats](https://github-readme-stats.vercel.app/api?username=northsurapee&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=northsurapee&theme=chalk&margin-w=5&margin-h=5&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
