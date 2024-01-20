@@ -4,6 +4,7 @@ Welcome to my coding - world !
 You can visit my highlight projects (with live-demo) in the pinned repository below 🔥
 
 ## Programming Language
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,r,html,css,js)](https://skillicons.dev)
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="25" height="25"/>
