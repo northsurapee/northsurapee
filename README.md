@@ -14,7 +14,7 @@ You can visit my highlight projects (with live-demo) in the pinned repository be
 #### Back-end Web Development
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,pug,postman)](https://skillicons.dev)
 
-#### Databses
+#### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
 [![Surapee's GitHub stats](https://github-readme-stats.vercel.app/api?username=northsurapee&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
