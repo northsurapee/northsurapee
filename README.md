@@ -8,7 +8,8 @@ You can visit my highlight projects (with live-demo) in the pinned repository be
 
 ## Tools and Frameworks
 
-Front-end Web Development : [![My Skills](https://skillicons.dev/icons?i=figma,react,vite,tailwind,webpack)](https://skillicons.dev)
+#### Front-end Web Development
+[![My Skills](https://skillicons.dev/icons?i=figma,react,vite,tailwind,webpack)](https://skillicons.dev)
   Back-end Web Development :
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="25" height="25"/>
