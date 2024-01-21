@@ -3,7 +3,7 @@ Welcome to my coding - world !
 
 You can visit my highlight projects (with live-demo) in the pinned repository below 🔥
 
-## Programming Language
+## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,scala,java,py,r,html,css,js)](https://skillicons.dev)
 
 ## Tools and Frameworks
@@ -11,7 +11,7 @@ You can visit my highlight projects (with live-demo) in the pinned repository be
 #### Front-end Web Development
 [![My Skills](https://skillicons.dev/icons?i=figma,react,vite,tailwind,webpack)](https://skillicons.dev)
 
-#### Back-end Web Development
+#### Back-end Development
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,pug,postman)](https://skillicons.dev)
 
 #### Databases
