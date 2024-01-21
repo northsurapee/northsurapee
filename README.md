@@ -9,10 +9,10 @@ You can visit my highlight projects (with live-demo) in the pinned repository be
 ## Tools and Frameworks
 
 #### Front-end Web Development
-[![My Skills](https://skillicons.dev/icons?i=figma,react,vite,tailwind,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,react,vite,tailwind,webpack,pug)](https://skillicons.dev)
 
 #### Back-end Development
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,pug,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postman)](https://skillicons.dev)
 
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
