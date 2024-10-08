@@ -4,7 +4,7 @@ Welcome to my coding - world !
 You can visit my highlight projects (with live-demo) in the pinned repository below 🔥
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,scala,java,py,r,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,scala,java,py,r,html,css,js,dart)](https://skillicons.dev)
 
 ## Tools and Frameworks
 
